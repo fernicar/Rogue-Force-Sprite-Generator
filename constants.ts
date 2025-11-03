@@ -53,7 +53,7 @@ export const SPRITE_DATA: SpriteData = {
           name: "Bloodrotter (Dark Red Berserker)",
           color: "#7F0000",
           frames: [
-            { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a blood-powered warrior facing right in side view. Wears tattered dark red armor (#7F0000) with blood-red highlights. Muscular build. Holds a jagged crimson blade. Dark red aura emanating from body. standing stance but controlled. Red eyes glowing. Use a solid magenta screen background (#FF00FF). 16-bit style." },
+            { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a blood-powered warrior facing right in side view. Wears tattered dark red armor (#7F0000) with blood-red highlights. Muscular build. Holds a jagged crimson blade. Dark red aura emanating from body. standing stance but controlled. Red eyes glowing. Use a solid green screen background (#00FF00). 16-bit style." },
             genericFrames.breathe1,
             genericFrames.breathe2,
             genericFrames.walk1,
@@ -69,7 +69,7 @@ export const SPRITE_DATA: SpriteData = {
           name: "Ox (Dark Red Berserker - Bulkier)",
           color: "#800000",
           frames: [
-            { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a massive berserker warrior facing right in side view. Extremely muscular and bulky build. Wears minimal dark red armor (#800000) with bull motifs. Carries a huge two-handed axe. Intimidating presence. Calm before the storm expression. Red-brown skin tone. Use a solid magenta screen background (#FF00FF). 16-bit style." },
+            { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a massive berserker warrior facing right in side view. Extremely muscular and bulky build. Wears minimal dark red armor (#800000) with bull motifs. Carries a huge two-handed axe. Intimidating presence. Calm before the storm expression. Red-brown skin tone. Use a solid green screen background (#00FF00). 16-bit style." },
             genericFrames.breathe1,
             genericFrames.breathe2,
             genericFrames.walk1,
@@ -111,7 +111,7 @@ export const SPRITE_DATA: SpriteData = {
                 name: "Gemekaa (Crimson Oracle)",
                 color: "#DC143C",
                 frames: [
-                    { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a mysterious oracle facing right in side view. Wears flowing crimson robes (#DC143C) with mystical patterns. Has blindfold or closed eyes (seeing through prophecy). Holds a crystal orb showing swirling visions. Enigmatic expression. Use a solid magenta screen background (#FF00FF). 16-bit style." },
+                    { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a mysterious oracle facing right in side view. Wears flowing crimson robes (#DC143C) with mystical patterns. Has blindfold or closed eyes (seeing through prophecy). Holds a crystal orb showing swirling visions. Enigmatic expression. Use a solid green screen background (#00FF00). 16-bit style." },
                     genericFrames.breathe1,
                     genericFrames.breathe2,
                     genericFrames.walk1,
@@ -132,7 +132,7 @@ export const SPRITE_DATA: SpriteData = {
                 name: "Ares (Red Warrior)",
                 color: "#FF0000",
                 frames: [
-                    { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a heroic warrior facing right in side view. Wears red armor (#FF0000) with golden accents. Muscular but agile build. Dual-wields swords (one on shoulder, one lowered). Cape flowing behind. Heroic stance. Confident expression. Use a solid magenta screen background (#FF00FF). 16-bit style." },
+                    { name: "Base/Idle", prompt: "Create a 32x32 pixel art sprite of a heroic warrior facing right in side view. Wears red armor (#FF0000) with golden accents. Muscular but agile build. Dual-wields swords (one on shoulder, one lowered). Cape flowing behind. Heroic stance. Confident expression. Use a solid green screen background (#00FF00). 16-bit style." },
                     genericFrames.breathe1,
                     genericFrames.breathe2,
                     genericFrames.walk1,
