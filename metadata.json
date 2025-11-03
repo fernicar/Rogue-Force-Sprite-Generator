@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rogue Force Sprite Generator",
+  "description": "An application to generate and edit 32x32 pixel art sprites for the game Rogue Force using text prompts and the Gemini API. Users can select characters from various factions, generate animation frames, and then edit the resulting images with further text commands.",
+  "requestFramePermissions": []
+}
